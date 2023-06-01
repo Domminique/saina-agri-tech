@@ -16,7 +16,7 @@ const reviews = [
   },
   {
     id: 2,
-    name: 'Freemium',
+    name: 'Freemium-based',
     job: 'NGOs and Government ONLY',
     image: '/assets/images/chapchap15.png',
     text: ' Basic level of real-time information & insights for free, while charging for premium features or upgrades',
