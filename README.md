@@ -2,7 +2,7 @@
 
 ##Author: **Dominic Imbuga** ##Track: **Google Cloud Associate Engineer**
 
-See the app in action here -> [https://Ongata Rongai Online.netlify.app]
+See the app in action here -> [https://saina.netlify.app]
 
 ## Design & Process #00aa13
 
@@ -11,7 +11,7 @@ I'm Kenyan, a countty in East Africa, food security in my country has been a big
 
  Lack of latest farming equpipments,networth business networks, lack of latest agro processing and manufacturing innovations, lack of targetetd knowledge for farmers and agro processors stifle the efforts for a sustanable farming that can provide food security and  the app uses  mobile plaform, IoT technology, data analytics, and Cloud to  provide a solution that improve agricultural productivity, supply chain management, and food security.
 
-### Brief description: Ongata Rongai Online - (**Ongata Rongai Online** is swahili word from a mentor)
+### Brief description: saina - (**saina** means princess)
 
 An integrated smart farming platform that leverages Internet of Things (IoT) technology, data analytics, and mobile applications to empower farmers with real-time information and insights.
 
