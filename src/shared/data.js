@@ -4,22 +4,22 @@ const reviews = [
     name: 'Commission-based',
     job: '10% commission ',
     image: '/assets/images/oro5.png',
-    text: 'Ongata Rongai Online takes a 10% of each sale made through the platform',
+    text: 'saina takes a 10% of each sale made through the platform',
   },
 
   {
     id: 2,
     name: 'Subscription-based',
-    job: 'Ksh 500/Month or Ksh. 5500/Year',
+    job: 'From Ksh 500/Month or Ksh. 5500/Year',
     image: '/assets/images/oro6.png',
-    text: 'Artisans Pay a monthly or year subscription fee to access the e-commerce platform and sell their products.',
+    text: 'Agribusinesses and Smallholder farmers  pay a monthly or year subscription fee to access the marketplace on platform to sell their products and services., manage IoT devices, access targeted and customized real-time information & insights',
   },
   {
     id: 2,
     name: 'Freemium',
     job: 'NGOs and Government ONLY',
     image: '/assets/images/oro.png',
-    text: ' Basic level of services for free, while charging for premium features or upgrades',
+    text: ' Basic level of real-time information & insights for free, while charging for premium features or upgrades',
   },
 ]
 
