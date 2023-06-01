@@ -7,7 +7,7 @@ See the app in action here -> [https://Ongata Rongai Online.netlify.app]
 ## Design & Process #00aa13
 
 ####Introduction 
-I'm Kenyan, a countrty in East Africa, food in my coundtry has been a big problem, protests are going on in different counties due to high food prices, a common citizen can't a proper meal baecause food prices have nearly doubled .1 kg of dry maize locally called gorogoro now retails at 190kg from Ksh 80 .
+I'm Kenyan, a countty in East Africa, food security in my country has been a big problem, protests are going on in different counties due to high food prices, a common citizen can't afford a proper meal because food prices have nearly doubled for instance 1 kg of dry maize locally called gorogoro now retails at 190kg from Ksh 80, and Ugali a meal made from maize is Kenyan staple food! we need a solution fast.
 
  Lack of latest farming equpipments,networth business networks, lack of latest agro processing and manufacturing innovations, lack of targetetd knowledge for farmers and agro processors stifle the efforts for a sustanable farming that can provide food security and  the app uses  mobile plaform, IoT technology, data analytics, and Cloud to  provide a solution that improve agricultural productivity, supply chain management, and food security.
 
