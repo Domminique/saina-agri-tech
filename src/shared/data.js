@@ -2,7 +2,7 @@ const reviews = [
   {
     id: 1,
     name: 'Commission-based',
-    job: '10% commission ',
+    job: '10% Commission ',
     image: '/assets/images/oro5.png',
     text: 'saina takes a 10% of each sale made through the platform',
   },
@@ -12,7 +12,7 @@ const reviews = [
     name: 'Subscription-based',
     job: 'From Ksh 500/Month or Ksh. 5500/Year',
     image: '/assets/images/oro6.png',
-    text: 'Agribusinesses and Smallholder farmers  pay a monthly or year subscription fee to access the marketplace on platform to sell their products and services., manage IoT devices, access targeted and customized real-time information & insights',
+    text: 'Agribusinesses and Smallholder farmers  pay a monthly or yearly subscription fee to access the marketplace to sell their products and services, manage IoT devices, access targeted and customized real-time information & insights',
   },
   {
     id: 2,
