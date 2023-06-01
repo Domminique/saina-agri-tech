@@ -7,7 +7,7 @@ export default function QandA() {
     <main>
       <br></br>
       <div className='container'>
-        <h3>questions and answers about Ongata Rongai Online</h3>
+        <h3>questions and answers about saina</h3>
         <section className='info'>
           {questions.map((question) => {
             return (

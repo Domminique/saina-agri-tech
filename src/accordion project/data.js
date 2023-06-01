@@ -1,8 +1,8 @@
 const questions = [
   {
     id: 1,
-    title: 'How to import  data from my other system to Ongata Rongai Online?',
-    info: 'Ongata Rongai Online allows uploading data in many different formats ,current supported formats are pdf, spreadsheets, json & API . ',
+    title: 'How to import  data from my other system to saina?',
+    info: 'saina allows uploading data in many different formats ,current supported formats are pdf, spreadsheets, json & API . ',
   },
   {
     id: 2,
@@ -12,7 +12,7 @@ const questions = [
   {
     id: 3,
     title: 'Is my data safe',
-    info: 'Yes, Ongata Rongai Online is protected by state-of-the-art security infrastructure powered by google cloud armor',
+    info: 'Yes, saina is protected by state-of-the-art security infrastructure powered by google cloud armor',
   },
   {
     id: 4,
@@ -27,7 +27,7 @@ const questions = [
   {
     id: 6,
     title: 'Are you here for the long haul?',
-    info: 'Yes, Ongata Rongai Online is built to last ',
+    info: 'Yes, saina is built to last ',
   },
 ]
 export default questions

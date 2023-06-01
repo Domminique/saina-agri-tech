@@ -72,11 +72,11 @@ const Footer = () => {
 
         <SocialMedia>
           <SocialMediaWrap>
-            <p>Ongata Rongai Online</p>
+            <p>saina</p>
 
             <WebsiteRights>
               {' '}
-              Ongata Rongai Online {new Date().getFullYear()} All rights reserved
+              saina {new Date().getFullYear()} All rights reserved
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink
