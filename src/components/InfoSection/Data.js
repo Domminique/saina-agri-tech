@@ -46,9 +46,9 @@ export const homeObjThree = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Training and Support ',
-  headline: 'We provide training and support to  agribusinesses  and Smallholder',
+  headline: 'We provide training and support to  agribusinesses  and Smallholder farmers ',
   description:
-    'To enable African agribusinesses and Smallholder farmers use the e-commerce platform effectivelly. This includes training from agricultural cooperatives on product photography, pricing, marketing, and customer service.',
+    'To enable African agribusinesses and Smallholder farmers use the integrated platform effectivelly. This includes training on sustainable agribusiness, quality farming,progressive livestock farming, enhanced farming practises, product photography, pricing, marketing, and customer service.',
   buttonLabel: 'Download mobile app',
   imgStart: false,
   img: img2,
